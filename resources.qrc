@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Browsers_009.png</file>
+    <file>closebutton.png</file>
+    <file>closebutton2.png</file>
+    <file>Untitled.png</file>
+    <file>High_resolution_wallpaper_background_ID_77700024297.jpg</file>
+    <file>back.PNG</file>
+    <file>Capture.PNG</file>
+    <file>5c1d033b0b95a-wallpaper-preview.jpg</file>
+    <file>d3b8e8a8e4e3319658e9689401e3933e.jpg</file>
+    <file>BxCGqU-IMAEKejl.png</file>
+    <file>73c08740bcfe5c7b6db3659f4f67874b.png</file>
+  </qresource>
+</RCC>
